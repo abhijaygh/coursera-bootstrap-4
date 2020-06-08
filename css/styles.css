@@ -37,3 +37,8 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+
+
+#guestcount{
+	font-size: 19px;
+}
